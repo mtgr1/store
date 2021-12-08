@@ -1,0 +1,331 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>اهلا بكم </title>
+<!--
+Newline Template
+https://templatemo.com/tm-503-newline
+-->
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <link rel="stylesheet" href="bootstrap-theme.min.css">
+        <link rel="stylesheet" href="fontAwesome.css">
+        <link rel="stylesheet" href="templatemo-style.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+        <script src="modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+
+        <div class="overlay"></div>
+        <section class="top-part">
+		<img style="max-height:99%;" src="item-07.jpg"></img>
+	<!-- <video controls autoplay loop>
+            <source src="videos/video.mp4" type="video/mp4">
+            <source src="videos/video.ogg" type="video/ogg">
+          Your browser does not support the video tag.
+          </video> -->
+        </section>
+        
+        <section class="cd-hero">
+
+          <div class="cd-slider-nav">
+            <nav>
+              <span class="cd-marker item-1"></span>
+              <ul>
+                <li class="selected"><a href="#0"><div class="image-icon"><img src="home-icon.png"></div><h6>المتجر</h6></a></li>
+                <li><a href="#0"><div class="image-icon"><img src="about-icon.png"></div><h6>الزبائن</h6></a></li>
+                <li><a href="#0"><div class="image-icon"><img src="featured-icon.png"></div><h6>ابرز العروضات</h6></a></li>
+                <li><a href="#0"><div class="image-icon"><img src="projects-icon.png"></div><h6>محتويات المتجر</h6></a></li>
+                <li><a href="#0"><div class="image-icon"><img src="contact-icon.png"></div><h6>راسلنا</h6></a></li>
+              </ul>
+            </nav> 
+          </div> <!-- .cd-slider-nav -->
+
+          <ul class="cd-hero-slider">
+
+            <li class="selected">
+              <div class="heading">
+                <h1>Mtgr Poom</h1>
+                <span>اهلا بكم في متجرنا المتواضع</span>
+              </div>
+              <div class="cd-full-width first-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content first-content">
+                        <h4 style="font-size:25px;">قواعد البيع والشراء</h4>
+                        <p style="font-size:20px;">: طرق الدفع <br/> بيتكوين - سوا - كاش </p>
+                        <div class="primary-button">
+                          <a href="#">Discover More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+				<div class="heading">
+				<div style="background:rgba(90,90,90,1); background-color: rgba(0,0,0,0.75); padding-top:10vh; padding-bottom:10vh;">
+                <h1><span style="font-size:40px; color:white; text-align:center;">المتوفر في المتجر</span></h1> <br/>
+                <span style="text-align:center; font-size:18px;">!الق نظرة على متجرنا لعل شيئا يعجبك</span> 
+				</div>
+              </div>
+              <div class="cd-half-width first-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content first-content">
+                        <div class="row">
+                          <div class="col-md-3 project-item">
+                            <a href="8.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="8.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="9.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="9.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="10.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="10.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="11.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="11.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="12.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="12.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="13.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="13.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="14.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="14.jpg"></a>
+                          </div>
+          <!--            <div class="col-md-3 project-item">
+                            <a href="item-08.jpg" data-lightbox="image-1"><img src="project-item-08.jpg"></a> 
+                          </div> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>الزبائن</h1>
+                <span>معلومات عن الزبائن والتعاملات</span> 
+              </div>
+             <div class="cd-half-width first-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content first-content">
+					    <p style="font-size:22px; color:black;">قمنا بخدمة اكثر من 200 زبون وكانوا جميعا راضيين عن التعامل معنا <br/> في الاسفل بعض الصور لتعاملات حديثة مع الزبائن </p> <br/>
+                        <div class="row">
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="1.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="1.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="2.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="2.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="3.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="3.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="4.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="4.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="5.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="5.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="6.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="6.jpg"></a>
+                          </div>
+                          <div class="col-md-6 img-thumbnail project-item">
+                            <a href="7.jpg" data-lightbox="image-1"><img class="img-thumbnail imf" src="7.jpg"></a>
+                          </div>
+                     <!--     <div class="col-md-3 img-thumbnail project-item">
+                            <a href="8.jpg" data-lightbox="image-1"><img src="8.jpg"></a>
+                          </div> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>عرض اليوم</h1>
+        <!--    <span>هذا العرض جاري لتاريخ 11/12/2021</span> 
+              </div>
+              <div class="cd-half-width third-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content third-content">
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                            <img src="left-feature-image.png">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-feature-text">
+                              <h4> عرض اليوم: <em>سيارة مرسيدس</em></h4>
+                              <p>مرسيدس موديل 2022 مع كرتونتها واغراضها بس ب 2 دولار</p>
+                              <div class="feature-list">
+                                <ul>
+                                  <p>- Suspendisse mattis finibus sem</p>
+                                  <p>- Pellentesque et urna vel lectus</p>
+                                  <p>- Vestibulum iaculis nisi dui</p>
+                                  <p>- Donec sagittis eros , ac tempus ligula</p>
+                                  <p>- Integer sapien risus, auctor</p>
+                                </ul>
+                              </div>
+                              <div class="primary-button">
+                                <a href="#">Discover More</a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div> -->
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>جميع المبيعات</h1>
+                <span>!الق نظرة على متجرنا لعل شيئا يعجبك</span> 
+              </div>
+              <div class="cd-half-width fourth-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content fourth-content">
+					    <p style="font-size:22px; color:black;"> :شروط المتجر قبل الشراء <ul> <i>1</i> <br/> <i>2</i> <br/> <i>3</i> </ul></p> <br/>
+             <!--       <div class="row">
+                          <div class="col-md-3 project-item">
+                            <a href="item-01.jpg" data-lightbox="image-1"><img src="project-item-01.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-02.jpg" data-lightbox="image-1"><img src="project-item-02.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-03.jpg" data-lightbox="image-1"><img src="project-item-03.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-04.jpg" data-lightbox="image-1"><img src="project-item-04.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-05.jpg" data-lightbox="image-1"><img src="project-item-05.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-06.jpg" data-lightbox="image-1"><img src="project-item-06.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-07.jpg" data-lightbox="image-1"><img src="project-item-07.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="item-08.jpg" data-lightbox="image-1"><img src="project-item-08.jpg"></a>
+                          </div>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>تواصل معنا</h1>
+                <span>اذا اردت شراء شيء ما تواصل معنا عبر احد حساباتنا في الاسفل</span> 
+              </div>
+              <div class="cd-half-width fivth-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content fivth-content">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <div class="left-info">
+                              <p style="text-align:center;"> سوف نرد عليك باسرع وقت ممكن ضمن توقيت المتجر
+                              <br><br>
+                              <em>نفتح من 7 صباحا الى 9 مساء</em>
+			      <br/><br/>
+			      <span style="font-weight:900; color:darkgreen;"> تواصل معنا سريعا عبر واتساب او انستغرام </span>
+                              </p>
+			      <div style="text-align:center;"> <a style="color:white;" href="https://wa.me/971522406191>"><button style="width:100px; text-align:center;" class="btn-success btn;"><p style="color:white; font-size:120%; text-align:center;"> Whatsapp </p></button></a> </div> <br/>
+				  <div style="text-align:center;"> <a style="color:white;" href="https://t.me/mtgrpoom>"><button style="width:100px; text-align:center;" class="btn-primary btn;"><p style="color:white; font-size:120%; text-align:center;"> Telegram </p></button></a> </div>
+                          <!--    <ul style="text-align:center;" class="social-icons">
+                                <i><a href="#"><i class="fa fa-facebook"></i></a></i>
+                                <i><a href="#"><i class="fa fa-twitter"></i></a></i>
+                                <i><a href="#"><i class="fa fa-whatsapp"></i></a></i> 
+                                <i><a href="#"><i class="fa fa-rss"></i></a></i>
+                                <i><a href="#"><i class="fa fa-behance"></i></a></i> 
+                              </ul> -->
+                            </div>
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+							  <div> <img src="15.jpg" class="img-responsive" alt="insta img"></img> <br/>
+							    <div style="text-align:center;"> <a style="color:white;" href="https://www.instagram.com/mtgr.poom/"><button style="width:250px;" class="btn-danger btn;"><p style="color:white; font-size:150%;"> انستغرام </p></button></a> </div>
+						      </div>
+                           <!--   <form id="contact" action="" method="post">
+                                <div class="col-md-6">
+                                  <fieldset>
+                                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-6">
+                                  <fieldset>
+                                    <input name="email" type="email" class="form-control" id="email" placeholder="Email" required="">
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-12">
+                                  <fieldset>
+                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message" required=""></textarea>
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-12">
+                                  <fieldset>
+                                    <button type="submit" id="form-submit" class="btn">Send Message</button>
+                                  </fieldset>
+                                </div> 
+                              </form>  -->
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+          </ul> <!-- .cd-hero-slider -->
+        </section> <!-- .cd-hero -->
+
+
+        <footer>
+          <p>                   
+		  | Designed by <a href="https://www.instagram.com/tyhpn/"><em>@tyhpn on instagram</em></a></p>
+        </footer>
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="bootstrap.min.js"></script>
+        <script src="plugins.js"></script>
+        <script src="main.js"></script>
+
+    </body>
+</html>
